@@ -5,6 +5,7 @@ class MyThread extends Thread {
 
     public void run() {
         System.out.println("running...");
+        System.out.println("241355_STIW3054");
     }
 
     public static void main(String args[]) {
